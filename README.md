@@ -1,17 +1,27 @@
 # moneyflow_month_by_month
 
-A new Flutter project.
+Flutter-приложение для учета движения средств по месяцам.
 
-## Getting Started
+## О проекте
 
-This project is a starting point for a Flutter application.
+Этот репозиторий содержит исходный код приложения на Flutter. Проект можно использовать как основу для дальнейшей разработки мобильного приложения с поддержкой Android, iOS, Web и Windows.
 
-A few resources to get you started if this is your first Flutter project:
+## Запуск проекта
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+1. Установите [Flutter](https://docs.flutter.dev/get-started/install).
+2. Выполните команду `flutter pub get`.
+3. Запустите приложение командой `flutter run`.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Сборка APK
+
+Для сборки Android APK используйте команду:
+
+```bash
+flutter build apk
+```
+
+## Полезные ссылки
+
+- [Документация Flutter](https://docs.flutter.dev/)
+- [Первое приложение на Flutter](https://docs.flutter.dev/get-started/codelab)
+- [Учебные материалы Flutter](https://docs.flutter.dev/reference/learning-resources)
